@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DSA PROJECT/src"/>
+	<classpathentry kind="lib" path="DSA PROJECT/wordcloud.jar"/>
+	<classpathentry kind="output" path="DSA PROJECT/src"/>
+</classpath>
